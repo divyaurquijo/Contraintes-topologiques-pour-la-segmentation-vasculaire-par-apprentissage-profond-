@@ -1,0 +1,1 @@
+# Contraintes topologiques pour la segmentation vasculaire par apprentissage profond
