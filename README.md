@@ -7,6 +7,8 @@
 - [Sujet de projet](https://filesender.renater.fr/?s=download&token=142d0ae0-d553-4809-89c7-8ed28e8dcef4)
 - [Tutorial MONAI UNet](https://github.com/Project-MONAI/tutorials/blob/main/3d_segmentation/spleen_segmentation_3d.ipynb)
 - [Introduction aux réseaux convolutifs (vidéo cours Standford)](https://www.youtube.com/watch?v=bNb2fEVKeEo) 
+- [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) 
+- [Learn PyTorch for Deep Learning: Zero to Mastery book](https://www.learnpytorch.io) 
 
 ### Etat de l'art
 - [O. Ronneberger et al. « U-Net : convolutional networks for biomedical image segmentation »](https://arxiv.org/pdf/1505.04597.pdf)
